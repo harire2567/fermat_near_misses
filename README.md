@@ -14,4 +14,4 @@ fermat_near_misses.exe
 
 3. Alternatively, you can double click fermat_near_misses.exe to run it directly
 
-#Note: Please dismiss if the system is prompting with security warnings.
+#Note: Please dismiss if the system is prompting any security warnings.
