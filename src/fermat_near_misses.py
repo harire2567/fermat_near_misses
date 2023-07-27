@@ -4,8 +4,8 @@
 # External files created by this program: N/A
 # Programmers: Harish Reddy, Manoj Kumar Boppudi
 # Email address: harishreddy1077@gmail.com, manojkumarboppudi@lewisu.edu
-# Course Number: [Course Number]
-# Section Number: [Section Number]
+# Course Number: CPSC 60500
+# Section Number:  Sections 1 and 2
 # Student ID : L30082842, L30081082
 # Date: 29th July 2023
 #
