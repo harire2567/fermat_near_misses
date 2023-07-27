@@ -2,11 +2,12 @@
 # Program file name: fermat_near_misses.py
 # External files required for this program: N/A
 # External files created by this program: N/A
-# Programmers: Harish Reddy, <>
-# Email address: [Your Email], [Partner's Email]
+# Programmers: Harish Reddy, Manoj Kumar Boppudi
+# Email address: harishreddy1077@gmail.com, manojkumarboppudi@lewisu.edu
 # Course Number: [Course Number]
 # Section Number: [Section Number]
-# Date: [Submission Date]
+# Student ID : L30082842, L30081082
+# Date: 29th July 2023
 #
 # Description: This program allows an interactive user to search for "near misses" of Fermat's Last Theorem in the
 # form x^n + y^n <> z^n, where x, y, z, n, and k are positive integers. The program prompts the user to enter the
@@ -84,5 +85,5 @@ for x in range(10, k + 1):  # Loop for x from 10 to k
                 print(f"Current Smallest Relative Miss          : {format(smallest_relative_miss, '.20f')}")
                 print("\n************************************************************************\n")
 
-
+# To exit from the console
 input('Press ENTER to exit')
